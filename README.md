@@ -1,2 +1,2 @@
-# Amazon_Clone
+# amazon-clone
 Created with CodeSandbox
